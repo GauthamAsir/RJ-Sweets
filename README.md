@@ -2,19 +2,13 @@
 
 <img src="https://3.bp.blogspot.com/-As516iT5Fg4/XCaboGY7s9I/AAAAAAAAAsI/H73juYD21i8I3QYa3MlRR6eSP1Vfaqm-ACLcBGAs/s1600/institute%2Blogo.PNG">
 
-### MarkDown
+### College Project
 
-College Project
+# Compatible From Android Version 5.0(Lollipop) upto 10.0(Pie)
 
-# Header1
-Compatible From Android Version 5.0(Lollipop) upto 10.0(Pie)
+## **Notice:** This is **Work In Progress** so it might not work
 
-## Header2
-**Notice:** This is **Work In Progress** so it might not work
-
-### Header3
-Online Sweets Orderig App for specific store (eg:- like Dominos)
-=====================================
+### Online Sweets Orderig App for specific store (eg:- like Dominos)
 
 Basic   | Spec Sheet
 -------:|:-------------------------
