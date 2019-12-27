@@ -1,6 +1,6 @@
 ## RJ-Sweets
-![AGJS](https://3.bp.blogspot.com/-As516iT5Fg4/XCaboGY7s9I/AAAAAAAAAsI/H73juYD21i8I3QYa3MlRR6eSP1Vfaqm-ACLcBGAs/s1600/institute%2Blogo.PNG "AGJS")
 
+<img src="https://3.bp.blogspot.com/-As516iT5Fg4/XCaboGY7s9I/AAAAAAAAAsI/H73juYD21i8I3QYa3MlRR6eSP1Vfaqm-ACLcBGAs/s1600/institute%2Blogo.PNG">
 
 ### MarkDown
 
