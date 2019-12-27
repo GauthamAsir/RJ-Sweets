@@ -1,13 +1,13 @@
-## <center>RJ-Sweets</center>
+## RJ-Sweets
 
-<center> <img src="https://3.bp.blogspot.com/-As516iT5Fg4/XCaboGY7s9I/AAAAAAAAAsI/H73juYD21i8I3QYa3MlRR6eSP1Vfaqm-ACLcBGAs/s1600/institute%2Blogo.PNG"></center>
+<img src="https://3.bp.blogspot.com/-As516iT5Fg4/XCaboGY7s9I/AAAAAAAAAsI/H73juYD21i8I3QYa3MlRR6eSP1Vfaqm-ACLcBGAs/s1600/institute%2Blogo.PNG" calss="center">
 
-# <center>College Project</center>
-<center>Compatible From Android Version 5.0(Lollipop) upto 10.0(Pie)</center>
+# College Project
+Compatible From Android Version 5.0(Lollipop) upto 10.0(Pie)
 
-<center>**Notice:** This is **Work In Progress** so it might not work
+**Notice:** This is **Work In Progress** so it might not work
 
-Online Sweets Orderig App for specific store (eg:- like Dominos)</center>
+Online Sweets Orderig App for specific store (eg:- like Dominos)
 
 
 Basic   | Spec Sheet
