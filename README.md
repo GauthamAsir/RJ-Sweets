@@ -7,11 +7,7 @@
 # College Project
 Compatible From Android Version 5.0(Lollipop) upto 10.0(Pie)
 
-<br>
-
 **Notice:** This is **Work In Progress** so it might not work
-
-<br>
 
 Online Sweets Orderig App for specific store (eg:- like Dominos)
 
